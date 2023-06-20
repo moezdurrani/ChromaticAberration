@@ -9,6 +9,13 @@ The data collected from the game will be analyzed using statistical methods such
 The expected outcomes of this research are an optimized lens configuration for reducing chromatic aberrations, an improved understanding of the physics of chromatic aberrations, validation of simulation-based methods, and publication of the results in academic journals and conferences. This research has the potential to contribute to the development of improved optical devices with minimized chromatic aberrations and to advance the field of simulation-based optimization and reinforcement learning.
 
 
-## My First step was to follow the tinyRayTracer github Repository and recreate the same results in C++. Here is the link to my github repo where I worked on it.
+## Tiny Ray Tracer C++
+My First step was to follow the tinyRayTracer GitHub Repository and recreate the same results in C++. Here is the link to my GitHub repo where I worked on it.
 
 https://github.com/moezdurrani/tinyRayTracer
+
+## Tiny Ray Tracer Python
+As the rest of my project is going to be on Python, that is why I recreated the tinyRayTracer above in Python. I have included the link below
+
+https://github.com/moezdurrani/TinyRayTracerPython
+
